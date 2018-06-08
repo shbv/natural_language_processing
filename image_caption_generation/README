@@ -1,0 +1,6 @@
+This is Caption generator for image.
+Trained on Flickr8k dataset using VGG, LSTM and merge architecture
+
+Inspired from:
+https://machinelearningmastery.com/
+https://arxiv.org/abs/1703.09137
